@@ -1,4 +1,4 @@
-module del2
+module myquote
 
 go 1.13
 
