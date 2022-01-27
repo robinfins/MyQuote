@@ -1,5 +1,5 @@
-module github.com/robinfins/myquote
+module del2
 
 go 1.13
 
-require github.com/robinfins/myquote v1.0.0
+require rsc.io/quote v1.3.0
