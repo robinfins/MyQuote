@@ -1,4 +1,4 @@
-module myquote
+module github.com/robinfins/myquote
 
 go 1.13
 
